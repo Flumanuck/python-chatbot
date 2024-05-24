@@ -1,3 +1,5 @@
 /keys
 .env
 DS_Store
+exampleConvos.txt
+personality.txt
